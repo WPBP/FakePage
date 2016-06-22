@@ -1,0 +1,31 @@
+{
+  "name": "wpbp/fakepage",
+  "description": "Generate a fake page on the fly",
+  "license": "GPL-3.0",
+  "keywords": [
+    "wordpress",
+    "fake",
+    "virtual"
+  ],
+  "homepage": "https://github.com/WPBP/FakePage",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Daniele Scasciafratte",
+      "email": "mte90net@gmail.com",
+      "homepage": "http://mte90.net"
+    }
+  ],
+  "minimum-stability": "stable",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/WPBP/FakePage.git"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "cronplus.php"
+    ]
+  }
+}
