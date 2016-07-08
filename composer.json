@@ -25,7 +25,7 @@
   ],
   "autoload": {
     "files": [
-      "cronplus.php"
+      "fake-page.php"
     ]
   }
 }
